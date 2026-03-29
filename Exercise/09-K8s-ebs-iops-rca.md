@@ -45,8 +45,6 @@ Low IOPS → Disk freezes → Probes fail → Pods restart → Restarts generate
 
 # 📄 Root Cause Analysis (RCA)
 
-You can paste the following directly into your incident README, runbook, or RCA document.
-
 ---
 
 ## Root Cause Summary
