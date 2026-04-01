@@ -22,8 +22,6 @@ Most engineers burn the first 8 minutes doing this:
 
 ## Incident Response Flowchart
 
-![K8s Incident Response Flowchart](image.png)
-
 ---
 
 ## Pod State Diagnostic Runbook
