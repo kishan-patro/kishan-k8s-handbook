@@ -20,8 +20,11 @@ Notable files include:
 
 - `01-K8s-incident-response-runbook.md`
 - `02-Kubernetes-troubleshooting-runbook.md`
-- `03-K8s-scenario-based.md`
+- `03-K8s-scenario-based-questions.md`
+- `04-K8s-why-stateful-is-hard.md`
 - `05-K8s-from-pod-to-ingress.md`
+- `06-K8s-production-basics.md`
+- `07-how-https-tls-works.md`
 - `08-K8s-cluster-architecture.md`
 - `09-K8s-ebs-iops-rca.md`
 - `10-K8s-commands.md`
