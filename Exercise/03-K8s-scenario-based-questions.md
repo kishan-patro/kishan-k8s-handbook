@@ -1,7 +1,7 @@
 # 03-K8s: Scenario-Based Questions
 
 Covers: Pods • Networking • Storage • RBAC • Scaling • StatefulSets • Cluster Ops • Security • Advanced Patterns
-March 2026 · 10 Categories · 50 Questions · Production-Level Answers
+
  01 Pods & Workloads
 Q01 Pod Troubleshooting
 A Pod is stuck in Pending state for 10 minutes. Walk me through how you diagnose and resolve it.
