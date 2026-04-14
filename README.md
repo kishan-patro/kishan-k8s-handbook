@@ -6,28 +6,37 @@ It is organized as a study and reference project rather than a deployable applic
 
 ## Repository Structure
 
-### `Exercise/`
+### `K8s-real-time-stories/`
 
-Scenario-driven notes, runbooks, and interview preparation material.
+Scenario-driven notes and runbooks focused on practical, real-world Kubernetes incidents and operations.
+
+Subfolders:
+
+- `assets/` for diagrams and images used by the stories
 
 - Incident response and troubleshooting guides
 - Scenario-based Kubernetes questions
 - Architecture and networking notes
-- Interview prep files covering common platform and DevOps topics
 - Quick command references
 
 Notable files include:
 
 - `01-K8s-incident-response-runbook.md`
-- `02-Kubernetes-troubleshooting-runbook.md`
+- `02-K8s-troubleshooting-runbook.md`
 - `03-K8s-scenario-based-questions.md`
 - `04-K8s-why-stateful-is-hard.md`
 - `05-K8s-from-pod-to-ingress.md`
 - `06-K8s-production-basics.md`
-- `07-how-https-tls-works.md`
+- `07-K8s-how-https-tls-works.md`
 - `08-K8s-cluster-architecture.md`
 - `09-K8s-ebs-iops-rca.md`
 - `10-K8s-commands.md`
+
+### `Interview-prep/`
+
+Dedicated interview revision content in a separate top-level folder for visibility.
+
+- `Interview-prep-01.md` to `Interview-prep-08.md`
 
 ### `Kubernetes/`
 
@@ -56,8 +65,8 @@ If you are using this repository to learn Kubernetes in a structured order, this
 1. Start with `Kubernetes/01-containers/`
 2. Move to `Kubernetes/02-k8s/`
 3. Continue with `Kubernetes/03-pod/`
-4. Read the runbooks in `Exercise/`
-5. Use the interview prep files for revision and practice
+4. Read the runbooks in `K8s-real-time-stories/`
+5. Use `Interview-prep/` for revision and practice
 
 ## Who This Is For
 
