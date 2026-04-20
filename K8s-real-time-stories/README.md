@@ -21,6 +21,7 @@ This folder contains scenario-driven Kubernetes notes and runbooks based on prac
 15. [15-K8s-intermittent-503-readiness-rca.md](15-K8s-intermittent-503-readiness-rca.md)
 16. [16-K8s-concepts-story-guide.md](16-K8s-concepts-story-guide.md)
 17. [17-K8s-concepts-story-cheat-sheet.md](17-K8s-concepts-story-cheat-sheet.md)
+18. [18-K8s-secrets-management-guide.md](18-K8s-secrets-management-guide.md)
 
 ## Interview Prep
 
