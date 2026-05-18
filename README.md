@@ -21,22 +21,22 @@ Subfolders:
 
 Notable files include:
 
-- `01-K8s-incident-response-runbook.md`
-- `02-K8s-troubleshooting-runbook.md`
-- `03-K8s-scenario-based-questions.md`
-- `04-K8s-why-stateful-is-hard.md`
-- `05-K8s-from-pod-to-ingress.md`
-- `06-K8s-production-basics.md`
-- `07-K8s-how-https-tls-works.md`
-- `08-K8s-cluster-architecture.md`
-- `09-K8s-ebs-iops-rca.md`
-- `10-K8s-commands.md`
+- `01-k8s-incident-response-runbook.md`
+- `02-k8s-troubleshooting-runbook.md`
+- `03-k8s-scenario-based-questions.md`
+- `04-k8s-why-stateful-is-hard.md`
+- `05-k8s-from-pod-to-ingress.md`
+- `06-k8s-production-basics.md`
+- `07-k8s-how-https-tls-works.md`
+- `08-k8s-cluster-architecture.md`
+- `09-k8s-ebs-iops-rca.md`
+- `10-k8s-commands.md`
 
 ### `Interview-prep/`
 
 Dedicated interview revision content in a separate top-level folder for visibility.
 
-- `Interview-prep-01.md` to `Interview-prep-08.md`
+- `interview-prep-01.md` to `interview-prep-08.md`
 
 ### `Kubernetes/`
 

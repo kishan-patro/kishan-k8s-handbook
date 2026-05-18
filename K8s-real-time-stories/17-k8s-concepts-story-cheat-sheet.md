@@ -1,6 +1,6 @@
 # Kubernetes Concept Story Cheat Sheet (1-Page)
 
-Source: 16-K8s-concepts-story-guide.md
+Source: 16-k8s-concepts-story-guide.md
 
 ## Rapid Q and A
 
